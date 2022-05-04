@@ -1,7 +1,8 @@
 from datetime import datetime
 from time import sleep #Yo! That's some cool auto import shit!
 
-odds = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59]
+odds = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59] #This is longer than my 16-hour
+#flight from Dubai to Miami.
 
 right_this_minute = datetime.today().minute
 
