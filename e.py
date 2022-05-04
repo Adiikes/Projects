@@ -12,3 +12,5 @@ while True:
     else:
         print("This minute is not odd.")
         
+        #If you havent figured, this tells if the minute right now is odd or not.
+        
