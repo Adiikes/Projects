@@ -6,7 +6,7 @@ odds = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 3
 
 right_this_minute = datetime.today().minute
 
-while True: #The original code didn't contain a while loop. I basically improve the first ever code that's in Paul Barry's "Head first into Python".
+while True: #The original code didn't contain a while loop. I basically improved the first code that's in Paul Barry's "Head first into Python".
     sleep(59.9) #Yes, I know a minute is 60. Go think about it for the next 4 years.
     if right_this_minute in odds:
         print("This minute is odd.")
